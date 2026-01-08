@@ -1,7 +1,7 @@
 # Getting started
 - Выгрузите проект командой
 ```shell
-    git clone 
+    git clone https://github.com/schahrom/blog-service.git
 ```
 
 - Запустите инфраструктуру для сервиса
